@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
        Boolean b =false;
        String good="happay saturday";
+       double a = 4.0;
     }
 }
